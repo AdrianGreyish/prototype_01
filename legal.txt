@@ -10,10 +10,6 @@ MIT:
 - FXAA WebGL implementation by mattdesl (https://github.com/mattdesl/glsl-fxaa)
 - hammer.js (https://hammerjs.github.io/)
 
-GPL:
-
-- conway-heart by mikolalysenko (https://github.com/mikolalysenko/conway-hart)
-
 Public Domain:
 
 - Photoshop math GLSL shaders by Romain Dura (https://mouaif.wordpress.com/2009/01/05/photoshop-math-with-glsl-shaders/)
